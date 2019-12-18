@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountriesList</string>
+    <string name="sort_by_ascending_name">Sort by name</string>
+    <string name="sort_by_descending_name">Sort by name (Reversed)</string>
+    <string name="sort_by_ascending_area">Sort by ascending size</string>
+    <string name="sort_by_descending_area">Sort by descending size</string>
+    <string name="error">Error!</string>
+    <string name="check_connection">Please Check if you have Internet Connection.\nExiting the App</string>
+</resources>
